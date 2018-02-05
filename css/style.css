@@ -1,3 +1,24 @@
-div{
-  background-color: black;
+#block1 {
+  position: relative;
+  overflow: hidden;
+  background: green;
+  height: 200px;
+  width: 200px;
+ }
+#block2 {
+  position: relative;
+  float:left;
+  overflow: hidden;
+  background: blue;
+  height: 200px;
+  width: 200px;
+  margin: 100px;
 }
+ #block3 {
+   position: relative;
+   float:left;
+   overflow: hidden;
+   background: red;
+   height: 200px;
+   width: 200px;
+ }
