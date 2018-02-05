@@ -4,6 +4,8 @@
   background: green;
   height: 200px;
   width: 200px;
+  text-align: center;
+  font-size: 25px;
  }
 #block2 {
   position: relative;
@@ -13,6 +15,8 @@
   height: 200px;
   width: 200px;
   margin: 100px;
+  text-align: center;
+  font-size: 25px;
 }
  #block3 {
    position: relative;
@@ -21,4 +25,6 @@
    background: red;
    height: 200px;
    width: 200px;
+   text-align: center;
+   font-size: 25px;
  }
